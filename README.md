@@ -22,7 +22,6 @@ At Schneider Electric’s DataOffice (SAM), I work as a Data Engineering / Data 
 ---
 
 ### <img alt="Contact" width="20" height="20" src="assets/icons/icon-contact.svg" /> Contact
-If you’d like to collaborate or chat, reach me via:
 
 <p>
 	<a href="https://www.linkedin.com/in/victoria-avalos-a8545b2b4" target="_blank" rel="noopener noreferrer">
