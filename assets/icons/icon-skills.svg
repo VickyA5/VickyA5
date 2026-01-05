@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <circle cx="12" cy="12" r="11" fill="#ffffff" stroke="#24292f" stroke-width="1.5"/>
+  <!-- simple gear -->
+  <circle cx="12" cy="12" r="3" fill="#24292f"/>
+  <g fill="#24292f">
+    <rect x="11" y="5" width="2" height="3" rx="1"/>
+    <rect x="11" y="16" width="2" height="3" rx="1"/>
+    <rect x="5" y="11" width="3" height="2" rx="1"/>
+    <rect x="16" y="11" width="3" height="2" rx="1"/>
+    <rect x="6.6" y="6.6" width="3" height="2" rx="1" transform="rotate(-45 8.1 7.6)"/>
+    <rect x="14.4" y="15.4" width="3" height="2" rx="1" transform="rotate(-45 15.9 16.4)"/>
+    <rect x="6.6" y="15.4" width="3" height="2" rx="1" transform="rotate(45 8.1 16.4)"/>
+    <rect x="14.4" y="6.6" width="3" height="2" rx="1" transform="rotate(45 15.9 7.6)"/>
+  </g>
+</svg>
