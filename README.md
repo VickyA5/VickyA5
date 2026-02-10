@@ -17,7 +17,7 @@
 ### <img alt="Experience" width="20" height="20" src="assets/icons/icon-experience.svg" /> Featured Experience
 At Schneider Electric’s DataOffice (SAM), I worked as a Data Engineering / Data Science intern, developing and maintaining ETL pipelines and cleaning, transforming, and combining large datasets to power internal analytics. I also built internal dashboards and contribute to machine-learning initiatives oriented to sales and business outcomes, working primarily with Python, SQL, Pandas, Apache Airflow, and Amazon Redshift.
 
-### Projects
+### <img alt="Projects" width="20" height="20" src="assets/icons/icon-projects.svg" /> Projects
 - **StackTracker:** [https://github.com/VickyA5/StackTracker](https://github.com/VickyA5/StackTracker) — Web application to help small businesses monitor daily stock and price changes from multiple suppliers. Allows users to configure supplier-specific Excel schemas, upload daily stock files, and automatically detect product additions, removals, and price updates.
 
 ---
